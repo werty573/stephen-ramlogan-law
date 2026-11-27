@@ -1,0 +1,4 @@
+_shots/
+*.mp4
+*.m4a
+node_modules/
